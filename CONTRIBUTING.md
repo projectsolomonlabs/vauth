@@ -1,16 +1,16 @@
 
-# Contributing to NEO
-Neo is an open-source project and it depends on its contributors and constant community feedback to implement the features required for a smart economy. You are more than welcome to join us in the development of Neo.  
+# Contributing to Vauth
+Vauth is an open-source project and it depends on its contributors and constant community feedback to implement the features required for a smart economy. You are more than welcome to join us in the development of Vauth.  
 
 Read this document to understand how issues are organized and how you can start contributing.
 
 *This document covers this repository only and does not include community repositories or repositories managed by NGD Shanghai and NGD Seattle.*
 
 ### Questions and Support
-The issue list is reserved exclusively for bug reports and features discussions. If you have questions or need support, please visit us in our [Discord](https://discord.io/neo) server.  
+The issue list is reserved exclusively for bug reports and features discussions. If you have questions or need support, please visit us in our [Discord](https://discord.io/Vauth) server.  
 
 ### dApp Development
-This document does not relate to dApp development. If you are looking to build a dApp using Neo, please [start here](https://neo.org/dev).
+This document does not relate to dApp development. If you are looking to build a dApp using Vauth, please [start here](https://Vauth.org/dev).
 
 ### Contributing to open source projects
 If you are new to open-source development, please [read here](https://opensource.guide/how-to-contribute/#opening-a-pull-request) how to submit your code.
@@ -23,7 +23,7 @@ We try to have as few rules as possible,  just enough to keep the project organi
 Avoid implementing issues with the discussion tag.
 2. **Tests during code review**. We expect reviewers to test the issue before approving or requesting changes.
 
-3. **Wait for at least 2 reviews before merging**. Changes can be merged after 2 approvals, for Neo 3.x branch, and 3 approvals for Neo 2.x branch.
+3. **Wait for at least 2 reviews before merging**. Changes can be merged after 2 approvals, for Vauth 3.x branch, and 3 approvals for Vauth 2.x branch.
 
 3. **Give time to other developers review an issue**. Even if the code has been approved, you should leave at least 24 hours for others to review it before merging the code.
 
@@ -33,7 +33,7 @@ Avoid implementing issues with the discussion tag.
 
 
 ### Issues for beginners
-If you are looking to start contributing to NEO, we suggest you start working on issues with ![](./.github/images/cosmetic.png) or ![](./.github/images/house-keeping.png) tags since they usually do not depend on extensive NEO platform knowledge. 
+If you are looking to start contributing to Vauth, we suggest you start working on issues with ![](./.github/images/cosmetic.png) or ![](./.github/images/house-keeping.png) tags since they usually do not depend on extensive Vauth platform knowledge. 
 
 ### Tags for Issues States
 
@@ -46,18 +46,18 @@ Note that PRs for issues in this state may also be discarded if the team disagre
 
 ### Tags for Issue Types
 
-![Cosmetic](./.github/images/cosmetic.png) Issues with the cosmetic tag are usually changes in code or documentation that improve user experience without affecting current functionality. These issues are recommended for beginners because they require little to no knowledge about Neo platform.
+![Cosmetic](./.github/images/cosmetic.png) Issues with the cosmetic tag are usually changes in code or documentation that improve user experience without affecting current functionality. These issues are recommended for beginners because they require little to no knowledge about Vauth platform.
 
 ![Enhancement](./.github/images/enhancement.png) Enhancements are platform changes that may affect performance, usability or add new features to existing modules. It is recommended that developers have previous knowledge in the platform to work in these improvements, specially in more complicated modules like the compiler, ledger and consensus.
 
 ![Feature](./.github/images/new-feature.png) New features may include large changes in the code base. Some are complex, but some are not. So, a few issues with new-feature may be recommended for starters, specially those related to the rpc and the sdk module.
 
-![Migration](./.github/images/migration.png) Issues related to the migration from Neo 2 to Neo 3 are tagged with migration. These issues are usually the most complicated ones since they require a deep knowledge in both versions.
+![Migration](./.github/images/migration.png) Issues related to the migration from Vauth 2 to Vauth 3 are tagged with migration. These issues are usually the most complicated ones since they require a deep knowledge in both versions.
 
 ### Tags for Project Modules 
 These tags do not necessarily represent each module at code level. Modules consensus and compiler are not recommended for beginners.
 
-![Compiler](./.github/images/compiler.png) Issues that are related or influence the behavior of our C# compiler. Note that the compiler itself is hosted in the [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet) repository.
+![Compiler](./.github/images/compiler.png) Issues that are related or influence the behavior of our C# compiler. Note that the compiler itself is hosted in the [Vauth-devpack-dotnet](https://github.com/Vauth-project/Vauth-devpack-dotnet) repository.
 
 ![Consensus](./.github/images/consensus.png) Changes to consensus are usually harder to make and test. Avoid implementing issues in this module that are not yet decided.
 
@@ -71,9 +71,9 @@ These tags do not necessarily represent each module at code level. Modules conse
 
 ![RPC](./.github/images/rpc.png) All HTTP communication is handled by the RPC module. This module usually provides support methods since the main communication protocol takes place at the p2p module.
 
-![VM](./.github/images/vm.png) New features that affect the Neo Virtual Machine or the Interop layer.
+![VM](./.github/images/vm.png) New features that affect the Vauth Virtual Machine or the Interop layer.
 
-![SDK](./.github/images/sdk.png) Neo provides an SDK to help developers to interact with the blockchain. Changes in this module must not impact other parts of the software. 
+![SDK](./.github/images/sdk.png) Vauth provides an SDK to help developers to interact with the blockchain. Changes in this module must not impact other parts of the software. 
 
 ![Wallet](./.github/images/wallet.png) Wallets are used to track funds and interact with the blockchain. Note that this module depends on a full node implementation (data stored on local disk).
 

@@ -1,8 +1,8 @@
 # Security Policy
 
-The purpose of NEO vulnerability bounty program is to be proactive about blockchain security by providing a channel for security researchers to report potential security vulnerabilities identified related to our underlying infrastructure.
+The purpose of Vauth vulnerability bounty program is to be proactive about blockchain security by providing a channel for security researchers to report potential security vulnerabilities identified related to our underlying infrastructure.
 
-First, it is recommended to read the following page https://neo.org/dev/bounty, if you find a security vulnerability in NEO, please report it as indicated on that page.
+First, it is recommended to read the following page https://Vauth.org/dev/bounty, if you find a security vulnerability in Vauth, please report it as indicated on that page.
 
 Please withhold public disclosure until the security team has addressed the vulnerability and it has been solved.
 
