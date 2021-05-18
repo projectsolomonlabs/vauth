@@ -39,7 +39,7 @@ namespace Vauth.UnitTests
         [TestMethod]
         public void TestGetSeedList()
         {
-            ProtocolSettings.Default.SeedList.Should().BeEquivalentTo(new string[] { "seed1.Vauth.org:10333", "seed2.Vauth.org:10333", "seed3.Vauth.org:10333", "seed4.Vauth.org:10333", "seed5.Vauth.org:10333", });
+            ProtocolSettings.Default.SeedList.Should().BeEquivalentTo(new string[] { "seed1.projectsolomon.com/vauth:10333", "seed2.projectsolomon.com/vauth:10333", "seed3.projectsolomon.com/vauth:10333", "seed4.projectsolomon.com/vauth:10333", "seed5.projectsolomon.com/vauth:10333", });
         }
 
         [TestMethod]

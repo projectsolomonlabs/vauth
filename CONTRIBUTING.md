@@ -10,7 +10,7 @@ Read this document to understand how issues are organized and how you can start 
 The issue list is reserved exclusively for bug reports and features discussions. If you have questions or need support, please visit us in our [Discord](https://discord.io/Vauth) server.  
 
 ### dApp Development
-This document does not relate to dApp development. If you are looking to build a dApp using Vauth, please [start here](https://Vauth.org/dev).
+This document does not relate to dApp development. If you are looking to build a dApp using Vauth, please [start here](https://projectsolomon.com/vauth/dev).
 
 ### Contributing to open source projects
 If you are new to open-source development, please [read here](https://opensource.guide/how-to-contribute/#opening-a-pull-request) how to submit your code.

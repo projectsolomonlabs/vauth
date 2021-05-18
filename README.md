@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://Vauth.org/">
+  <a href="https://projectsolomon.com/vauth/">
       <img
       src="https://Vauth3.azureedge.net/images/logo%20files-dark.svg"
       width="250px" alt="Vauth-logo">
@@ -11,7 +11,7 @@
 <p align="center">
    A modern distributed network for the Smart Economy.
   <br>
-  <a href="https://docs.Vauth.org/docs/en-us/index.html"><strong>Documentation »</strong></a>
+  <a href="https://docs.projectsolomon.com/vauth/docs/en-us/index.html"><strong>Documentation »</strong></a>
   <br>
   <br>
   <a href="https://github.com/Vauth-project/Vauth"><strong>Vauth</strong></a>
@@ -30,31 +30,7 @@
       src=".github/images/twitter-logo.png"
       width="25px">
   </a>
-  &nbsp;
-  <a href="https://medium.com/Vauth-smart-economy">
-      <img
-      src=".github/images/medium-logo.png"
-      width="23px">
-  </a>
-  &nbsp;
-  <a href="https://Vauthnewstoday.com">
-      <img
-      src=".github/images/nnt-logo.jpg"
-      width="23px">
-  </a>
   &nbsp;  
-  <a href="https://t.me/Vauth_EN">
-      <img
-      src=".github/images/telegram-logo.png"
-      width="24px" >
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/r/Vauth/">
-      <img
-      src=".github/images/reddit-logo.png"
-      width="24px">
-  </a>
-  &nbsp;
   <a href="https://discord.io/Vauth">
       <img
       src=".github/images/discord-logo.png"
@@ -68,16 +44,10 @@
   </a>
   &nbsp;
   <!--How to get a link? -->
-  <a href="https://Vauth.org/">
+  <a href="https://projectsolomon.com/vauth/">
       <img
       src=".github/images/we-chat-logo.png"
       width="25px">
-  </a>
-  &nbsp;
-  <a href="https://weibo.com/Vauthsmarteconomy">
-      <img
-      src=".github/images/weibo-logo.png"
-      width="28px">
   </a>
 </p>
 <p align="center">
@@ -108,8 +78,8 @@
 
 ## Overview
 This repository contain main classes of the 
-[Vauth](https://www.Vauth.org) blockchain.   
-Visit the [documentation](https://docs.Vauth.org/docs/en-us/index.html) to get started.
+[Vauth](https://www.projectsolomon.com/vauth) blockchain.   
+Visit the [documentation](https://docs.projectsolomon.com/vauth/docs/en-us/index.html) to get started.
 
 
 *Note: This is Vauth 3 branch, currently under development. For the current stable version, please [click here.](https://github.com/Vauth-project/Vauth/tree/master-2.x)*
@@ -152,7 +122,7 @@ Please feel free to create new issues to suggest features or ask questions.
 If you found a security issue, please refer to our [security policy](https://github.com/Vauth-project/Vauth/security/policy).
 
 ## Bounty program
-You can be rewarded by finding security issues. Please refer to our [bounty program page](https://Vauth.org/bounty) for more information.
+You can be rewarded by finding security issues. Please refer to our [bounty program page](https://projectsolomon.com/vauth/bounty) for more information.
 
 ## License
 The Vauth project is licensed under the [MIT license](LICENSE).

@@ -120,11 +120,11 @@ namespace Vauth
             ValidatorsCount = 7,
             SeedList = new[]
             {
-                "seed1.Vauth.org:10333",
-                "seed2.Vauth.org:10333",
-                "seed3.Vauth.org:10333",
-                "seed4.Vauth.org:10333",
-                "seed5.Vauth.org:10333"
+                "seed1.projectsolomon.com/vauth:10333",
+                "seed2.projectsolomon.com/vauth:10333",
+                "seed3.projectsolomon.com/vauth:10333",
+                "seed4.projectsolomon.com/vauth:10333",
+                "seed5.projectsolomon.com/vauth:10333"
             },
             MillisecondsPerBlock = 15000,
             MaxTransactionsPerBlock = 512,
