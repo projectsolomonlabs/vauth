@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://projectsolomon.com/vauth/">
       <img
-      src="https://ibb.co/R9tddfn"
+      src="https://i.ibb.co/Y3Jwwm9/IMG-1411.png"
       width="250px" alt="Vauth-logo">
   </a>
 </p>
