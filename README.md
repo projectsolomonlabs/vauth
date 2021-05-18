@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://Vauth.org/">
       <img
-      src="https://drive.google.com/file/d/1MZVO6MKGjda8WnALaD0UxeUOy5Cw4S34/view?usp=sharing"
+      src="https://ibb.co/R9tddfn"
       width="250px" alt="Vauth-logo">
   </a>
 </p>
